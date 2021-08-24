@@ -1,6 +1,6 @@
 [
 	{
 		"action": "remove",
-		"files": ["Makefile", "test/", "bin/"]
+		"files": ["Makefile", "tests/", "bin/"]
 	}
 ]
